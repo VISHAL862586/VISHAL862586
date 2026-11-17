@@ -1,161 +1,158 @@
+&#x20;\<div align="center">
 
-<div align="center">
+\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:0F172A,70:164E63,100:06B6D4&height=230&section=header&text=VISHAL%20THOMBARE&fontSize=48&fontColor=67E8F9&animation=fadeIn&fontAlignY=35&desc=JAVA%20FULL%20STACK%20DEVELOPER&descSize=17&descAlignY=58&descColor=E2E8F0](https://capsule-render.vercel.app/api?type=waving\&color=0:020617,30:0F172A,70:164E63,100:06B6D4\&height=230\&section=header\&text=VISHAL%20THOMBARE\&fontSize=48\&fontColor=67E8F9\&animation=fadeIn\&fontAlignY=35\&desc=JAVA%20FULL%20STACK%20DEVELOPER\&descSize=17\&descAlignY=58\&descColor=E2E8F0)" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:00D4FF,100:00F5D4&height=200&section=header&text=Vishal%20Thombare&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%" />
+\<br/>
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=700&lines=Hello%2C+I%27m+Vishal+Thombare;Java+Full+Stack+Developer;Spring+Boot+%7C+Microservices;Building+Scalable+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
-</a>
+\<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=22D3EE&center=true&vCenter=true&width=750&lines=Hey+there!+I](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=22\&duration=2500\&pause=900\&color=22D3EE\&center=true\&vCenter=true\&width=750\&lines=Hey+there!+I)'m+Vishal+%F0%9F%91%8B;Java+Full+Stack+Developer;Spring+Boot+%7C+Microservices;Building+Scalable+Backend+Systems;Turning+Ideas+Into+Code+%F0%9F%9A%80" alt="Typing SVG" />
 
-<br/>
+\<br/>\<br/>
 
-<img src="https://komarev.com/ghpvc/?username=VISHAL862586&label=PROFILE+VIEWS&color=00D4FF&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/VISHAL862586?label=Followers&style=for-the-badge&color=blue" />
+\<img src="[https://komarev.com/ghpvc/?username=VISHAL862586&label=PROFILE+VISITORS&color=0891B2&style=for-the-badge](https://komarev.com/ghpvc/?username=VISHAL862586\&label=PROFILE+VISITORS\&color=0891B2\&style=for-the-badge)" /> \<img src="[https://img.shields.io/github/followers/VISHAL862586?label=FOLLOWERS&style=for-the-badge&color=164E63&logo=github](https://img.shields.io/github/followers/VISHAL862586?label=FOLLOWERS\&style=for-the-badge\&color=164E63\&logo=github)" />
 
-<br/><br/>
+\<br/>\<br/>
 
-<a href="https://github.com/VISHAL862586">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
-</a>
+\<a href="[https://github.com/VISHAL862586](https://github.com/VISHAL862586)"> \<img src="[https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=67E8F9](https://img.shields.io/badge/GITHUB-020617?style=for-the-badge\&logo=github\&logoColor=67E8F9)" /> \</a> \<a href="[https://www.linkedin.com/in/vishal-thombare-56aa66327/](https://www.linkedin.com/in/vishal-thombare-56aa66327/)"> \<img src="[https://img.shields.io/badge/LINKEDIN-020617?style=for-the-badge&logo=linkedin&logoColor=38BDF8](https://img.shields.io/badge/LINKEDIN-020617?style=for-the-badge\&logo=linkedin\&logoColor=38BDF8)" /> \</a> \<a href="mailto\:vishalthombare862586\@gmail.com"> \<img src="[https://img.shields.io/badge/EMAIL-020617?style=for-the-badge&logo=gmail&logoColor=F87171](https://img.shields.io/badge/EMAIL-020617?style=for-the-badge\&logo=gmail\&logoColor=F87171)" /> \</a>
 
-<a href="https://www.linkedin.com/in/vishal-thombare-56aa66327/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="mailto:vishalthombare862586@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
+\</div>
 
 ---
 
-## 👨‍💻 whoami
+\<h2 align="center">🌌 &nbsp; WHO AM I?\</h2>
 
 ```java
-public class Developer {
+public class VishalThombare {
 
-    String name = "Vishal Thombare";
-    String username = "VISHAL862586";
-    String role = "Java Full Stack Developer";
+    private final String name = "Vishal Thombare";
+    private final String role = "Java Full Stack Developer";
+    private final String username = "VISHAL862586";
 
-    String[] skills = {
-        "Java",
-        "Spring Boot",
-        "Microservices",
-        "REST APIs",
-        "MySQL",
-        "Docker",
-        "AWS",
-        "Git"
+    private final String[] techStack = {
+        "Java", "Spring Boot",
+        "Microservices", "REST APIs",
+        "MySQL", "Docker", "AWS", "Git"
     };
 
-    String philosophy =
-        "Code with purpose, build with passion.";
+    private final String mindset =
+        "Learn. Build. Improve. Repeat.";
 
-    public void sayHello() {
-        System.out.println("Welcome to my GitHub! 🚀");
+    public void introduce() {
+        System.out.println(
+            "Building the future, one line at a time! 🚀"
+        );
     }
 }
 ```
 
-## 🚀 About Me
+\<div align="center">
 
-- 👋 Hi, I'm Vishal Thombare.
+### ⚡ Engineering mindset
+
+`CLEAN CODE`   •   `SCALABLE SYSTEMS`   •   `CONTINUOUS LEARNING`
+
+\</div>
+
+---
+
+\<h2 align="center">👨‍💻 &nbsp; ABOUT ME\</h2>
+
+- 🔹 Hi, I'm **Vishal Thombare**.
 - 💻 Java Full Stack Developer.
-- ☕ Interested in Java and Spring Boot.
-- ⚡ Exploring Microservices and REST API development.
-- 🗄️ Working with MySQL databases.
+- ☕ Interested in Java and Spring Boot development.
+- ⚙️ Exploring Microservices architecture and REST APIs.
+- 🗄️ Working with MySQL and database management.
 - 🐳 Exploring Docker and AWS.
-- 🌱 Always learning new technologies.
-- 🎯 Focused on building scalable applications.
+- 🚀 Passionate about building efficient applications.
+- 🌱 Always learning and improving my engineering skills.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+\<h2 align="center">🛠️ &nbsp; TECH ARSENAL\</h2>
 
-<div align="center">
+\<div align="center">
 
-### Backend Development
+### `01` — Backend Engineering
 
-<img src="https://skillicons.dev/icons?i=java,spring,maven" />
+\<img src="[https://skillicons.dev/icons?i=java,spring,maven&theme=dark](https://skillicons.dev/icons?i=java,spring,maven\&theme=dark)" />
 
-### Frontend Development
+\<br/>\<br/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+### `02` — Frontend Technologies
 
-### Database & Cloud
+\<img src="[https://skillicons.dev/icons?i=html,css,js,react&theme=dark](https://skillicons.dev/icons?i=html,css,js,react\&theme=dark)" />
 
-<img src="https://skillicons.dev/icons?i=mysql,aws,docker" />
+\<br/>\<br/>
 
-### Development Tools
+### `03` — Database & Cloud
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
+\<img src="[https://skillicons.dev/icons?i=mysql,aws,docker&theme=dark](https://skillicons.dev/icons?i=mysql,aws,docker\&theme=dark)" />
 
-</div>
+\<br/>\<br/>
 
----
+### `04` — Developer Tools
 
-## 📊 GitHub Statistics
+\<img src="[https://skillicons.dev/icons?i=git,github,idea,vscode,postman&theme=dark](https://skillicons.dev/icons?i=git,github,idea,vscode,postman\&theme=dark)" />
 
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=VISHAL862586&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VISHAL862586&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=VISHAL862586&theme=tokyonight&hide_border=true" width="75%" />
-
-</div>
+\</div>
 
 ---
 
-## 📈 Contribution Activity
+\<h2 align="center">📊 &nbsp; GITHUB ANALYTICS\</h2>
 
-<div align="center">
+\<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VISHAL862586&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+\<img width="49%" src="[https://github-readme-stats.vercel.app/api?username=VISHAL862586&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9](https://github-readme-stats.vercel.app/api?username=VISHAL862586\&show_icons=true\&theme=tokyonight\&hide_border=true\&bg_color=0D1117\&title_color=22D3EE\&icon_color=22D3EE\&text_color=C9D1D9)" />
 
-</div>
+\<img width="49%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=VISHAL862586&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9](https://github-readme-stats.vercel.app/api/top-langs/?username=VISHAL862586\&layout=compact\&theme=tokyonight\&hide_border=true\&bg_color=0D1117\&title_color=22D3EE\&text_color=C9D1D9)" />
 
----
+\<br/>\<br/>
 
-## 🏆 GitHub Trophies
+\<img width="80%" src="[https://streak-stats.demolab.com?user=VISHAL862586&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=06B6D4&currStreakLabel=22D3EE](https://streak-stats.demolab.com?user=VISHAL862586\&theme=tokyonight\&hide_border=true\&background=0D1117\&ring=22D3EE\&fire=06B6D4\&currStreakLabel=22D3EE)" />
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=VISHAL862586&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" width="100%" />
-
-</div>
+\</div>
 
 ---
 
-## 🤝 Connect With Me
+\<h2 align="center">📈 &nbsp; CONTRIBUTION MATRIX\</h2>
 
-<div align="center">
+\<div align="center">
 
-<a href="https://www.linkedin.com/in/vishal-thombare-56aa66327/">
-<img src="https://img.shields.io/badge/LinkedIn-Vishal%20Thombare-blue?style=for-the-badge&logo=linkedin" />
-</a>
+\<img src="[https://github-readme-activity-graph.vercel.app/graph?username=VISHAL862586&bg_color=0D1117&color=22D3EE&line=0891B2&point=67E8F9&area=true&hide_border=true&custom_title=MY%20CODING%20ACTIVITY](https://github-readme-activity-graph.vercel.app/graph?username=VISHAL862586\&bg_color=0D1117\&color=22D3EE\&line=0891B2\&point=67E8F9\&area=true\&hide_border=true\&custom_title=MY%20CODING%20ACTIVITY)" width="100%" />
 
-<a href="mailto:vishalthombare862586@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail" />
-</a>
+\</div>
 
-<a href="https://github.com/VISHAL862586">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
-</a>
+---
 
-<br/><br/>
+\<h2 align="center">🏆 &nbsp; ACHIEVEMENTS\</h2>
 
-### 💡 Developer Quote
+\<div align="center">
 
-*Great software is built one line of code at a time.*
+\<img src="[https://github-profile-trophy.vercel.app/?username=VISHAL862586&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6](https://github-profile-trophy.vercel.app/?username=VISHAL862586\&theme=algolia\&no-frame=true\&no-bg=true\&margin-w=8\&column=6)" width="100%" />
 
-<br/>
+\</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,50:00D4FF,100:090979&height=120&section=footer" width="100%" />
+---
 
-</div>
+\<h2 align="center">🤝 &nbsp; LET'S CONNECT\</h2>
+
+\<div align="center">
+
+\<a href="[https://www.linkedin.com/in/vishal-thombare-56aa66327/](https://www.linkedin.com/in/vishal-thombare-56aa66327/)"> \<img src="[https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=22D3EE](https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge\&logo=linkedin\&logoColor=22D3EE)" /> \</a>
+
+\<a href="mailto\:vishalthombare862586\@gmail.com"> \<img src="[https://img.shields.io/badge/Gmail-Contact_Me-0D1117?style=for-the-badge&logo=gmail&logoColor=F87171](https://img.shields.io/badge/Gmail-Contact_Me-0D1117?style=for-the-badge\&logo=gmail\&logoColor=F87171)" /> \</a>
+
+\<a href="[https://github.com/VISHAL862586](https://github.com/VISHAL862586)"> \<img src="[https://img.shields.io/badge/GitHub-Follow-0D1117?style=for-the-badge&logo=github&logoColor=67E8F9](https://img.shields.io/badge/GitHub-Follow-0D1117?style=for-the-badge\&logo=github\&logoColor=67E8F9)" /> \</a>
+
+\<br/>\<br/>
+
+### 💭 MY DEVELOPER PHILOSOPHY
+
+**"First, solve the problem. Then, write the code."**
+
+\<br/>
+
+\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,40:164E63,100:020617&height=140&section=footer&animation=fadeIn](https://capsule-render.vercel.app/api?type=waving\&color=0:06B6D4,40:164E63,100:020617\&height=140\&section=footer\&animation=fadeIn)" width="100%" />
+
+\<sub>⚡ Designed & Built by Vishal Thombare | Java Full Stack Developer\</sub>
+
+\</div>
